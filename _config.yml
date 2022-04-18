@@ -15,7 +15,7 @@ url                      : https://luisperez.ml # the base hostname & protocol f
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kandluis/luisperez.ml"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : true # true, false (default)
+breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Luis Perez"
   avatar           : "profile.jpeg"
-  bio              : "Welcome to my personal website! My name is Luis Perez, and I'm a Technical Leader and AI Researcher in the Bay Area, currently at Meta AI (previously at DeepMind and Google). These days, I'm teaching at North Carolina A&T, helping bring students from under-represented backgrounds into tech. I specialize in machine learning platforms, graph neural networks, and distributed systems."
+  bio              : "My name is Luis Perez, and I'm a Software Engineer and AI Leader in the Bay Area, currently at Meta AI (previously at DeepMind and Google). I specialize in machine learning platforms, graph neural networks, and distributed systems."
   location         : "Greensboro, NC"
   employer         : "Meta AI (formaly Facebook AI)"
   pubmed           : ""
