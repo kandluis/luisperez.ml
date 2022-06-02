@@ -1,20 +1,25 @@
 ---
-title: "Teaching experience 1"
+title: "Advanced Algorithms"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: comp285.ml
+venue: "North Carolina A&T, Computer Science"
+date: 2022-01-10
+location: "Greensboro, North Carolina"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+As part of the Engineer in Residence program at Meta Platforms, I spent 6 months as a visiting faculty at North Carolina Agricultural and Technical State University. 
 
-Heading 1
+North Carolina A&T is a publoc
+
+Courses Taught
 ======
 
-Heading 2
+Extracurricular Involvement
 ======
 
-Heading 3
+Recruitment Efforts
+======
+
+Mentorship
 ======

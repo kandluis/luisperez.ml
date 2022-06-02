@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Luis Perez / AI Researcher"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Luis Perez"
+description              : &description "I'm a Technical Leader and AI Researcher in the Bay Area, currently at Meta AI (previously at DeepMind and Google)"
+url                      : https://luisperez.ml # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "kandluis/luisperez.ml"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -32,8 +32,8 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
-  commitMessage          : "New comment."
+  branch                 : "master" # "master", "gh-pages"
+  commitMessage          : "Website Deployment"
   filename               : comment-{@timestamp}
   format                 : "yml"
   moderation             : true
@@ -57,9 +57,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : nautilik
 facebook:
-  username               :
+  username               : kandluis
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -80,40 +80,40 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  name             : "Luis Perez"
+  avatar           : "profile.jpeg"
+  bio              : "My name is Luis Perez, and I'm a Software Engineer and AI Leader in the Bay Area, currently at Meta AI (previously at DeepMind and Google). I specialize in machine learning platforms, graph neural networks, and distributed systems."
+  location         : "Greensboro, NC"
+  employer         : "Meta AI (formaly Facebook AI)"
+  pubmed           : ""
+  googlescholar    : "https://scholar.google.com/citations?user=WdafpDsAAAAJ&hl=en"
+  email            : "luis.perez.live@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "kandluis"
   foursquare       :
-  github           : "academicpages"
+  github           : "kandluis"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "nautilik"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "nautilik"
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/channel/UChSyIZVF2xJj4f3JTiEOAyg"
   wikipedia        :
 
 
