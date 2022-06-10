@@ -1,5 +1,5 @@
 ---
-title: "Algorithm Foundations for AI and Cyber-security"
+title: "COMP285: Algorithm Foundations for AI and Cyber-security"
 collection: teaching
 type: "Undergraduate course"
 permalink: /publication/2014-spring-teaching-1
@@ -8,7 +8,13 @@ date: 2021-12-20
 location: "Greensboro, North Carolina"
 ---
 
+
 As part of the Engineer in Residence program at Meta Platforms, I spent 6 months as a visiting faculty at North Carolina Agricultural and Technical State University. 
+
+## Course Site
+The entirety of the course content can be found at [COMP285: Algorithm Foundations for AI and Cyber-security](https://www.comp285.ml).
+
+## Background
 
 [North Carolina Agricultural and Technical State University](https://www.ncat.edu) (NC A&T for short) is a historically black university established in 1891 in Greensboro, NC. The total number of students enrolled in Spring '22 was 12,212, making it the largest HBCU in the US. The computer science department (in the College of Engineering) had about 380 total enrolled students, and has been growing steadily. 
 
