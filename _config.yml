@@ -7,16 +7,16 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Luis Perez / AI Researcher"
+title                    : "Luis Perez / Software Engineer"
 title_separator          : "-"
 name                     : &name "Luis Perez"
-description              : &description "I'm a Technical Leader and AI Researcher in the Bay Area, currently at Meta AI (previously at DeepMind and Google)"
+description              : &description "I'm a Technical Leader and Software Engineer/AI Researcher in the Bay Area, currently at Meta AI (previously at DeepMind and Google)"
 url                      : https://luisperez.ml # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kandluis/luisperez.ml"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
-words_per_minute         : 160
+words_per_minute         : 120
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
@@ -75,17 +75,17 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          :  "G-V1RW9CN53Z"
 
 
 # Site Author
 author:
   name             : "Luis Perez"
   avatar           : "profile.jpeg"
-  bio              : "My name is Luis Perez, and I'm a Software Engineer and AI Leader in the Bay Area, currently at Meta AI (previously at DeepMind and Google). I specialize in machine learning platforms, graph neural networks, and distributed systems."
+  bio              : "My name is Luis Perez, and I'm a Software Engineer and AI Leader in the Bay Area, currently at Meta AI (previously at DeepMind and Google). I specialize machine learning platforms for content understanding and ranking, state-of-the-art deep learning techniques, and large-scale distributed systems."
   location         : "Greensboro, NC"
   employer         : "Meta AI (formaly Facebook AI)"
-  pubmed           : ""
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=WdafpDsAAAAJ&hl=en"
   email            : "luis.perez.live@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/channel/UChSyIZVF2xJj4f3JTiEOAyg"
+  youtube          : "UChSyIZVF2xJj4f3JTiEOAyg"
   wikipedia        :
 
 

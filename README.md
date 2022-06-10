@@ -1,6 +1,6 @@
 # Introduction
 
-Welcome to my personal website! My name is Luis Perez, and I'm a Technical Leader and AI Researcher in the Bay Area, currently at Meta AI (previously at DeepMind and Google). These days, I'm teaching at North Carolina A&T, helping bring students from under-represented backgrounds into tech. I specialize in machine learning platforms, graph neural networks, and distributed systems. 
+Welcome to my personal website! My name is Luis Perez, and I'm a Technical Leader and Software Engineer/AI Researcher in the Bay Area, currently at Meta AI (previously at DeepMind and Google). These days, I'm teaching at North Carolina A&T, helping bring students from under-represented backgrounds into tech. I specialize in machine learning platforms, graph neural networks, and distributed systems. 
 
 Credit to [academicpage](https://academicpages.github.io/) for the template used for this site.
 
