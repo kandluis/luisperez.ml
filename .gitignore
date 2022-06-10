@@ -4,4 +4,6 @@ Gemfile.lock
 
 .jekyll-metadata
 
+.DS_Store
+
 
