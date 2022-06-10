@@ -2,7 +2,7 @@
 main:
   - title: "Bio"
     url: /bio/
-    
+
   - title: "Experience"
     url: /experience/
 
@@ -11,7 +11,4 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
             
