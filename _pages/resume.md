@@ -14,26 +14,6 @@ Software Engineer/AI Researcher
 
 Software Engineer at Meta AI with **9 years** experiencein machine learning and **5+ years** with PyTorch andTensorflow frameworks. Expert in **scaling models training into billion+ parameters** for content understanding and ranking (eg. transformers, graph attention networks, seq2seq models, two-tower). Technical lead supporting **5+ senior TLs** and **40+ engineers** acrossMeta AI.
 
-Skills
-======
-
-> **Languages**
-  * Proficient: Python, C++, C
-  * 2+ Years Experience: Java, SQL, Javascript, R
-  * Hobby: Haskell, OCaml, Rust
-
-> **Frameworks**:
-  * ML: PyTorch, Tensorflow, PyTorch Lightning, Kornia
-  * Libraries: torchvision, torchtext, torchdata
-
-> **Machine Learning/Deep Learning Techniques**
-  * Architectures: convolutional models, graph networks, seq2seq models, transformers
-  * Training Tricks: optimization, distillation, ensembles
-  * Data: label propagation, nosy labels/data, distributional shift,
-
-> **Other Technical**
-  * Distributed systems, Map Reduce, embedding lookup, vectorized databases, SQL, sharding, storage formats
-
 Work Experience
 ======
 
@@ -76,6 +56,27 @@ production baseline (40+% in cities like Sydney, with average reduction of 18% g
 * Built [program execution tracer](https://projects.iq.harvard.edu/provenance-at-harvard/publications/using-introspection-collect-provenance-r) for R, automated testinginfrastructure, and performance analytics framework.
 * Implemented construction [simulation](https://github.com/kandluis/sap2000) for decentralizedAI used in the [TERMEs](https://wyss.harvard.edu/media-post/termes/) project for real-world construction.
 
+Skills
+======
+
+> **Languages**
+  * Proficient: Python, C++, C
+  * 2+ Years Experience: Java, SQL, Javascript, R
+  * Hobby: Haskell, OCaml, Rust
+
+> **Frameworks**:
+  * ML: PyTorch, Tensorflow, PyTorch Lightning, Kornia
+  * Libraries: torchvision, torchtext, torchdata
+
+> **Machine Learning/Deep Learning Techniques**
+  * Architectures: convolutional models, graph networks, seq2seq models, transformers
+  * Training Tricks: optimization, distillation, ensembles
+  * Data: label propagation, nosy labels/data, distributional shift,
+
+> **Other Technical**
+  * Distributed systems, Map Reduce, embedding lookup, vectorized databases, SQL, sharding, storage formats
+
+
 Education
 ======
 
@@ -106,7 +107,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
