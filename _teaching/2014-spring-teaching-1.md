@@ -1,10 +1,10 @@
 ---
-title: "Advanced Algorithms"
+title: "Algorithm Foundations for AI and Cyber-security"
 collection: teaching
 type: "Undergraduate course"
-permalink: comp285.ml
+permalink: https://www.comp285.ml
 venue: "North Carolina A&T, Computer Science"
-date: 2022-01-10
+date: 2021-12-20
 location: "Greensboro, North Carolina"
 ---
 
