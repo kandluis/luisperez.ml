@@ -12,7 +12,7 @@ redirect_from:
 Software Engineer/AI Researcher
 ======
 
-Software Engineer at Meta AI with **9 years** experiencein machine learning and **5+ years** with PyTorch andTensorflow frameworks. Expert in **scaling models training into billion+ parameters** for content understanding and ranking (eg. transformers, graph attention networks, seq2seq models, two-tower). Technical lead supporting **5+ senior TLs** and **40+ engineers** acrossMeta AI.
+Software Engineer at Meta AI with **9 years** experience in machine learning and **6+ years** with PyTorch and Tensorflow frameworks. Expert in **large-scale model training** for content understanding and ranking (eg. transformers, graph attention networks, seq2seq models, two-tower). Technical lead supporting **5+ senior TLs** and **40+ engineers** acrossMeta AI.
 
 Work Experience
 ======
