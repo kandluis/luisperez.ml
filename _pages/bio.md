@@ -23,7 +23,7 @@ Latest Work/News
 - [Algorithm Foundations for AI and Cyber-security](https://www.comp285.ml) is now officially public, with all content and material freely available! Thanks to everyone at Stanford for helping out!
 
 - `torchrecipes` has been open-sourced! Check-out the [github](https://github.com/facebookresearch/recipes).!
-- Our work on [re-engineering Meta AI's deep learning platforms](https://ai.facebook.com/blog/reengineering-facebook-ais-deep-learning-platforms-for-interoperability/)) to be more interoperable.
+- Our work on [re-engineering Meta AI's deep learning platforms](https://ai.facebook.com/blog/reengineering-facebook-ais-deep-learning-platforms-for-interoperability/) to be more interoperable.
 - Our work on [improving travel time predictions for Google Maps](https://dl.acm.org/doi/abs/10.1145/3459637.3481916) was accepted to CIKM and is now out!
 
 
