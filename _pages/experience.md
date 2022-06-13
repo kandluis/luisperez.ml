@@ -18,7 +18,7 @@ Work Experience
 ======
 
 ## [2020 - ] Meta AI (formerly Facebook AI) |Software Engineer
-> Technical leader for 5 teams with 30+ engineers across key products (Instagram Reels, News Feed, and Marketplace)
+> Technical lead for 5 teams with 40+ engineers across key products (Instagram Reels, News Feed, and Marketplace)
 
 * [Reengineered](https://ai.facebook.com/blog/reengineering-facebook-ais-deep-learning-platforms-for-interoperability/) Meta AI’s multimodal content-understandplatform in PyTorch, leading migration of 100+ models
 * Led development of [PyTorch Recipes](https://pytorch.org/tutorials/recipes/recipes_index.html), enabling new modelsin IG Reels (+2.3% time spent) and Marketplace (+1.3% in CTR).
