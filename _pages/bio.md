@@ -29,12 +29,12 @@ Latest Work/News
 
 My work and mission
 ======
-I use qualitative, quantitative, and computational methods to holistically investigate and solve large-scale problems across products used by billions. Most of my work focuses on building technical solutions to technical problems. I love working to promote positive user content by teaching machines to understand text, image, and video. I like making positive social impact, such as reducing carbon emissions from vehicles by developing novel routing algorithms for Google Maps, and improved YouTube’s video recommendations through advanced deep learning techniques.
+I use qualitative, quantitative, and computational methods to holistically investigate and solve large-scale problems across products used by billions. Most of my work focuses on building technical solutions to technical problems. I love working to promote positive user content by teaching machines to understand text, image, and video. I like making positive social impact, such as reducing carbon emissions from vehicles by developing novel routing algorithms for Google Maps, and improving YouTube’s video recommendations through advanced deep learning techniques.
 
 I live by the following principles:
 
 - **Focus on Long-Term Individual Growth**: Maximize potential for growth (people skills, technical skills, leadership skills) to build strong/clear foundation to "change the world" (eg, being a lever that makes the difference)
 - **Create Positive External Impact**: My work must make people's lives better, provide a clear positive service and add direct value. It is not enough to work on something "big" or "important" - the work has to be a net positive for the world.
 - **Build Great Systems**: I work on teams that are leaders - focused on building great products for users, great systems for us. My teams are not "fast followers" or "catching-up" - we are leading because we are creating and building, working on hard problems, and pushing the boundaries of our domain. This also applies to non-technical support systems for individuals to grow.
-- **Be Kind**: Be direct, be empathetic, be kind, be supportive. How people feel matters, how the team feels matters. I work to build a culture of support and collaboration - avoiding individual competition and instead inspiring each other to be better.
+- **Be Kind**: Be direct, be empathetic, be supportive. How people feel matters, how the team feels matters. I work to build a culture of support and collaboration - avoiding individual competition and instead inspiring each other to be better.
 - **Do The Right Thing**: We do what's right, even if it's more costly or difficult. We correct and monitor progress, but our guiding principle is to do the right thing.
