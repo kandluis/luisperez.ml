@@ -12,13 +12,13 @@ redirect_from:
 Software Engineer/AI Researcher
 ======
 
-Software Engineer at Meta AI with **9 years** experience in machine learning and **6+ years** with PyTorch and Tensorflow frameworks. Expert in **large-scale model training** for content understanding and ranking (eg. transformers, graph attention networks, seq2seq models, two-tower). Technical lead supporting **5+ senior TLs** and **40+ engineers** acrossMeta AI.
+Software Engineer at Meta AI with **7 years** experience in machine learning and **5+ years** with PyTorch and Tensorflow frameworks. Expert in **large-scale model training** for content understanding and ranking (eg. transformers, graph attention networks, seq2seq models, two-tower). Technical lead supporting **5+ senior TLs** and **30+ engineers** across Meta AI.
 
 Work Experience
 ======
 
 ## [2020 - ] Meta AI (formerly Facebook AI) |Software Engineer
-> Technical lead for 5 teams with 40+ engineers across key products (Instagram Reels, News Feed, and Marketplace)
+> Technical lead working with 5 teams with 30+ engineers across key products (Instagram Reels, News Feed, and Marketplace)
 
 * [Reengineered](https://ai.facebook.com/blog/reengineering-facebook-ais-deep-learning-platforms-for-interoperability/) Meta AI’s multimodal content-understandplatform in PyTorch, leading migration of 100+ models
 * Led development of [PyTorch Recipes](https://pytorch.org/tutorials/recipes/recipes_index.html), enabling new modelsin IG Reels (+2.3% time spent) and Marketplace (+1.3% in CTR).
