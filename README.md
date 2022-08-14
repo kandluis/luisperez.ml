@@ -17,6 +17,29 @@ sudo apt install ruby-dev ruby-bundler nodejs
 4. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
 5. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
 
+### Tip: You should probably use `rbenv` or something similar to manage the dependencies required.
+
+If on Mac, you can do this by first installing `rbenv` using Homebrew:
+
+```sh
+brew install rbenv ruby-build
+```
+
+Once installed, you can follow the steps to install `budler` (enables the `bundle` command seen above) to a project-specific version of Ruby.
+```sh
+# Ruby version to use.
+rbenv install 3.1.2
+rbenv rehash
+
+# Sets local version to 3.1.2 for project.
+rbenv local 3.1.2
+
+# Installs bundler to 3.1.2. 
+gem install bundler
+```
+
+You can then follow the steps outlined above.
+
 # Changelog -- bugfixes and enhancements
 
 There is one logistical issue with a ready-to-fork template theme like academic pages that makes it a little tricky to get bug fixes and updates to the core theme. If you fork this repository, customize it, then pull again, you'll probably get merge conflicts. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch. 
