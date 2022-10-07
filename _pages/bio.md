@@ -22,7 +22,7 @@ I am the co-author of [The Effectiveness of Data Augmentation in Image Classific
 
 Latest Work/News
 ======
-- I'm currently working on the [Metaverse](https://about.facebook.com/) at Meta AI driving our 0->1 efforts for [Horizon Worlds](https://www.oculus.com/horizon-worlds/) to help creators build on our next computing platform. 
+- Checkout my work on the [Metaverse](https://about.facebook.com/) at Meta AI driving our 0->1 efforts for [Horizon Worlds](https://www.oculus.com/horizon-worlds/) to help creators build on our next computing platform.
 - [Algorithm Foundations for AI and Cyber-security](https://www.comp285.ml) is now officially public, with all content and material freely available! Thanks to everyone at Stanford for helping out!
 - `torchrecipes` has been open-sourced! Check-out the [github](https://github.com/facebookresearch/recipes).!
 - Our work on [re-engineering Meta AI's deep learning platforms](https://ai.facebook.com/blog/reengineering-facebook-ais-deep-learning-platforms-for-interoperability/) to be more interoperable.

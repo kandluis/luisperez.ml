@@ -12,7 +12,7 @@ redirect_from:
 Software Engineer/AI Researcher
 ======
 
-Software Engineer and Technical Leader at Waymo with **8 years** experience in machine learning and **6+ years** with PyTorch and Tensorflow frameworks. Expert in **large-scale model training** for behavior prediction, multimodal content understanding, and ranking (eg. wayformer, transformers, graph attention networks, seq2seq models). Technical lead supporting **60+ engineer** across behavior prediction and realism at Waymo.
+Software Engineer and Technical Leader at Waymo with **8 years** experience in machine learning and **6+ years** with PyTorch and Tensorflow frameworks. Expert in **large-scale model training** for behavior prediction, multimodal content understanding, and ranking (eg. wayformer, transformers, graph attention networks, seq2seq models). <!--- # Technical lead supporting **60+ engineer** across behavior prediction and realism at Waymo. -->
 
 Work Experience
 ======
