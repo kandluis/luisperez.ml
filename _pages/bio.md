@@ -8,7 +8,9 @@ redirect_from:
   - /bio.html
 ---
 
-Hi all, and welcome to my home on the web! I'm Luis, a Software Engineer at [Meta AI](https://ai.facebook.com/) (formerly known as Facebook), [re-engineering Meta AI's deep learning platforms](https://ai.facebook.com/blog/reengineering-facebook-ais-deep-learning-platforms-for-interoperability/). I previously worked on graph neural networks at [DeepMind](https://www.deepmind.com), advancing the state-of-the-art in [traffic prediction](https://www.deepmind.com/blog/traffic-prediction-with-advanced-graph-neural-networks) and learned the art of large-scale distributed systems at Google by building [Procella](https://research.google/pubs/pub48388/). I've also given several lectures at [North Carolina A&T University](https://www.ncat.edu/) and developed the curriculum for [Algorithm Foundations for AI and Cybersecurity](https://www.comp285.ml/)
+Hi all, and welcome to my home on the web! I'm Luis, a Software Leader at [Waymo](https://waymo.com/), making cars understand agent behavior by scaling large multimodal models, using state-of-the-art deep learning algorithms, and deploying large-scale, distributed infrastructure.
+
+I was previously at [Meta AI](https://ai.facebook.com/) (formerly known as Facebook), [re-engineering Meta AI's deep learning platforms for vision, text, and audio](https://ai.facebook.com/blog/reengineering-facebook-ais-deep-learning-platforms-for-interoperability/). Before that, I worked on graph neural networks at [DeepMind](https://www.deepmind.com), advancing the state-of-the-art in [traffic prediction](https://www.deepmind.com/blog/traffic-prediction-with-advanced-graph-neural-networks) and learned the art of large-scale distributed systems at Google by building [Procella](https://research.google/pubs/pub48388/). I've also given several lectures at [North Carolina A&T University](https://www.ncat.edu/) and developed the curriculum for [Algorithm Foundations for AI and Cybersecurity](https://www.comp285.ml/)
 
 I spend my free time [doing research for fun](https://scholar.google.com/citations?user=WdafpDsAAAAJ&hl=en).
 

@@ -12,12 +12,15 @@ redirect_from:
 Software Engineer/AI Researcher
 ======
 
-Software Engineer at Meta AI with **7 years** experience in machine learning and **5+ years** with PyTorch and Tensorflow frameworks. Expert in **large-scale model training** for content understanding and ranking (eg. transformers, graph attention networks, seq2seq models, two-tower). Technical lead supporting **5+ senior TLs** and **30+ engineers** across Meta AI.
+Software Engineer and Technical Leader at Waymo with **8 years** experience in machine learning and **6+ years** with PyTorch and Tensorflow frameworks. Expert in **large-scale model training** for behavior prediction, multimodal content understanding, and ranking (eg. wayformer, transformers, graph attention networks, seq2seq models). Technical lead supporting **60+ engineer** across behavior prediction and realism at Waymo.
 
 Work Experience
 ======
 
-## [2020 - ] Meta AI (formerly Facebook AI) |Software Engineer
+## [2022 - ] Waymo | Software Engineer
+> Software lead working across behavior prediction, planner, and simulation to improve trajectory modeling and driver realism.
+
+## [2020 - 2022] Meta AI (formerly Facebook AI) | Software Engineer
 > Technical lead working with 5 teams with 30+ engineers across key products (Instagram Reels, News Feed, and Marketplace)
 
 * [Reengineered](https://ai.facebook.com/blog/reengineering-facebook-ais-deep-learning-platforms-for-interoperability/) Meta AI’s multimodal content-understandplatform in PyTorch, leading migration of 100+ models
