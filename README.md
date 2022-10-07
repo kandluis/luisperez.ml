@@ -30,6 +30,8 @@ Once installed, you can follow the steps to install `budler` (enables the `bundl
 # Ruby version to use.
 rbenv install 3.1.2
 rbenv rehash
+# Only the first time, and follow output.
+rbenv init
 
 # Sets local version to 3.1.2 for project.
 rbenv local 3.1.2
