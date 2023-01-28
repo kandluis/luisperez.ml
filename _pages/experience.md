@@ -33,7 +33,7 @@ Work Experience
 ## [2022 -] North Carolina A&T University (Meta) | Visiting Faculty
 > Lead instructor establishing novel algorithms for artifical intelligence and cyber-security, serving 400+ undergraduate and 20+ graduate students at the largest HBCU in the US.
 
-* Created course ([YouTube](https://www.youtube.com/playlist?list=PL0KKKLEqGOyIgXP_kzDFcS9OB807s2Ar5)) and led the instruction to 62 students of [COMP285: Algorithm Foundations forAI and Cyber-security](http://comp285.ml)
+* Created course ([YouTube](https://www.youtube.com/playlist?list=PL0KKKLEqGOyIgXP_kzDFcS9OB807s2Ar5)) and led the instruction to 62 students of [COMP285: Algorithm Foundations forAI and Cyber-security](http://kandluis.github.io/algorithms-course)
 * Achieved a course satisfaction of 4.5/5 (+18.8%) and NPS of 73 with >10% of students accepting full-time positions at Meta.
 
 ## [2018 - 2022] DeepMind (Alphabet) | Senior ResearchEngineer

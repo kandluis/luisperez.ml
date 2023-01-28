@@ -10,7 +10,7 @@ redirect_from:
 
 Hi all, and welcome to my home on the web! I'm Luis, a Software Leader at [Waymo](https://waymo.com/), making cars understand agent behavior by scaling large multimodal models, using state-of-the-art deep learning algorithms, and deploying large-scale, distributed infrastructure.
 
-I was previously at [Meta AI](https://ai.facebook.com/) (formerly known as Facebook), [re-engineering Meta AI's deep learning platforms for vision, text, and audio](https://ai.facebook.com/blog/reengineering-facebook-ais-deep-learning-platforms-for-interoperability/). Before that, I worked on graph neural networks at [DeepMind](https://www.deepmind.com), advancing the state-of-the-art in [traffic prediction](https://www.deepmind.com/blog/traffic-prediction-with-advanced-graph-neural-networks) and learned the art of large-scale distributed systems at Google by building [Procella](https://research.google/pubs/pub48388/). I've also given several lectures at [North Carolina A&T University](https://www.ncat.edu/) and developed the curriculum for [Algorithm Foundations for AI and Cybersecurity](https://www.comp285.ml/)
+I was previously at [Meta AI](https://ai.facebook.com/) (formerly known as Facebook), [re-engineering Meta AI's deep learning platforms for vision, text, and audio](https://ai.facebook.com/blog/reengineering-facebook-ais-deep-learning-platforms-for-interoperability/). Before that, I worked on graph neural networks at [DeepMind](https://www.deepmind.com), advancing the state-of-the-art in [traffic prediction](https://www.deepmind.com/blog/traffic-prediction-with-advanced-graph-neural-networks) and learned the art of large-scale distributed systems at Google by building [Procella](https://research.google/pubs/pub48388/). I've also given several lectures at [North Carolina A&T University](https://www.ncat.edu/) and developed the curriculum for [Algorithm Foundations for AI and Cybersecurity](https://kandluis.github.io/algorithms-course/)
 
 I spend my free time [doing research for fun](https://scholar.google.com/citations?user=WdafpDsAAAAJ&hl=en).
 
@@ -23,7 +23,7 @@ I am the co-author of [The Effectiveness of Data Augmentation in Image Classific
 Latest Work/News
 ======
 - Checkout my work on the [Metaverse](https://about.facebook.com/) at Meta AI driving our 0->1 efforts for [Horizon Worlds](https://www.oculus.com/horizon-worlds/) to help creators build on our next computing platform.
-- [Algorithm Foundations for AI and Cyber-security](https://www.comp285.ml) is now officially public, with all content and material freely available! Thanks to everyone at Stanford for helping out!
+- [Algorithm Foundations for AI and Cyber-security](https://kandluis.github.io/algorithms-course) is now officially public, with all content and material freely available! Thanks to everyone at Stanford for helping out!
 - `torchrecipes` has been open-sourced! Check-out the [github](https://github.com/facebookresearch/recipes).!
 - Our work on [re-engineering Meta AI's deep learning platforms](https://ai.facebook.com/blog/reengineering-facebook-ais-deep-learning-platforms-for-interoperability/) to be more interoperable.
 - Our work on [improving travel time predictions for Google Maps](https://dl.acm.org/doi/abs/10.1145/3459637.3481916) was accepted to CIKM and is now out!
