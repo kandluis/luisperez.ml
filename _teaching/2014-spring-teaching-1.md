@@ -12,7 +12,7 @@ location: "Greensboro, North Carolina"
 As part of the Engineer in Residence program at Meta Platforms, I spent 6 months as a visiting faculty at North Carolina Agricultural and Technical State University. 
 
 ## Course Site
-The entirety of the course content can be found at [COMP285: Algorithm Foundations for AI and Cyber-security](https://algorithsm.luisperez.me).
+The entirety of the course content can be found at [COMP285: Algorithm Foundations for AI and Cyber-security](https://algorithms.luisperez.me).
 
 ## Background
 
